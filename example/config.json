@@ -1,0 +1,20 @@
+{
+    "csvColumnAddress": null,
+    "csvColumnAmount": 3,
+    "csvColumnCategory": 2,
+    "csvColumnCleared": null,
+    "csvColumnDate": 0,
+    "csvColumnMemo": 1,
+    "csvColumnPayee": null,
+    "csvColumnRefNumber": null,
+    "csvColumnReimburseFlag": null,
+    "csvColumnSplitAmount": null,
+    "csvColumnSplitCategory": null,
+    "csvColumnSplitMemo": null,
+    "csvColumnSplitPercentage": null,
+    "csvDateFormat": "D-MMM-YY",
+    "csvHasHeader": true,
+    "csvReverseAmountSign": false,
+    "qifAccountType": "Bank",
+    "qifDateFormat": "DD/MM/YY"
+}

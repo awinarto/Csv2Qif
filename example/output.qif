@@ -1,0 +1,26 @@
+!Type:Bank
+D16/04/20
+T-500.80
+MPayment 1
+LElectricity
+^
+D08/04/20
+T-150.00
+MPayment 2
+LWater
+^
+D02/04/20
+T-39.99
+MPayment 3
+LInternet
+^
+D26/03/20
+T-82.24
+MPayment 4
+LGrocery
+^
+D19/03/20
+T-27.30
+MPayment 5
+LHomeware
+^
